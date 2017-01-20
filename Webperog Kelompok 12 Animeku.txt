@@ -1,0 +1,13 @@
+Nama Anggota Kelompok 12 (AnimeKu) :
+- Tommy Lee - 1801409196 
+- Eric - 1801436096 
+- Nikko Febryanto - 1801408905 
+- Resen - 1801418704 
+- Rifqi Naufali - 1801399825 
+
+5 Fitur :
+- content berbahasa indonesia
+- upload video
+- upload foto
+- upload music
+- forum / review user
